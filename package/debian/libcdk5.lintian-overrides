@@ -1,0 +1,2 @@
+# package name refers to the source-release, not the ABI number
+libcdk5: package-name-doesnt-match-sonames *
